@@ -1,9 +1,14 @@
 # Python_assignment_1
 a = 2
+
 b= 4
+
 print(a + b)
+
 print(a - b)
+
 print(a * b)
+
 print(a / b)
 
 num1 = 55
